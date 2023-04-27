@@ -1,0 +1,24 @@
+.yo{
+    border-radius: 50%;
+    width: 200px;
+    height: 250px;
+    border: 2px solid #08e4f0;
+}
+div{
+    text-align: center;
+    
+}
+.social-icono {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .social-icono a {
+    margin: 0 10px;
+    color: #1de1ff;
+    font-size: 3rem;
+  }
+  
+  .social-icono a:hover {
+    color: rgb(179, 255, 28);
+  }

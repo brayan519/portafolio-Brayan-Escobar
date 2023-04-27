@@ -1,0 +1,21 @@
+.footer {
+  margin-top: auto;
+  border-top: 1px solid rgb(0, 221, 255);
+  padding: 10px;
+  text-align: center;
+  color: aqua;
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  color: #fff;
+  font-size: 24px;
+}
+
+.social-icons a:hover {
+  color: aqua;
+}

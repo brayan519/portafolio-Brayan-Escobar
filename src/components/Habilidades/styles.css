@@ -1,0 +1,9 @@
+.icons{
+    text-align: center;
+    font-size: 5rem;
+    margin: 80px;
+    color: aquamarine;
+}
+.icons:hover {
+    color: aqua;
+  }
